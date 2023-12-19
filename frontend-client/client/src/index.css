@@ -1,0 +1,23 @@
+body{
+  background-color: #F5F5F5;
+}
+
+.announcemets-details-cell-key{
+  width: 100px;
+  margin: 0px;
+  padding: 0px;
+  font-weight: 600;
+}
+
+.announcemets-details-cell-value{
+  width: 140px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.tr-inner-container{
+  display: inline-flex;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #F5F5F5;
+}

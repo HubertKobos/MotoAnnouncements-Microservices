@@ -1,0 +1,6 @@
+export const GEARBOX_TYPE = [
+  "MANUAL",
+  "AUTOMATIC_STEP",
+  "SEMI_AUTOMATIC",
+  "CONTINUOUSLY_VARIABLE",
+];

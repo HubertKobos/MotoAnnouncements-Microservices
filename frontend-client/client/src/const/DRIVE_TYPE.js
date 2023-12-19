@@ -1,0 +1,1 @@
+export const DRIVE_TYPE = ["FRONT_WHEEL", "REAR_WHEEL", "FOUR_WHEEL"];
